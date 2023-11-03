@@ -1,4 +1,4 @@
-# apiRest-SecurityJWT-main
+# apiRest-SecurityJWT-token
 Previamente en la bd debe existir cualquier usuarios, y la clave que le vas a colocar es 
 $2a$10$e59rGaFvpijWXLh03j0aZOzBYQNrIRIjlB8sGwLvBL35fecblsW1m
 que es igual a la palabra "password", sin las comillas
